@@ -5,7 +5,7 @@
   <title>Animacja</title>
   <style>
     body {
-      background-image: url(https://github.com/HistoriaAnimacjiP/HistoriaAnimacjiP.github.io/blob/main/tablet.png);
+      background-image: url(tablet.png);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center up; /* Dodana linia */
