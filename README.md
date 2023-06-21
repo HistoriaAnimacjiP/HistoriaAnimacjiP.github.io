@@ -5,7 +5,7 @@
   <title>Animacja</title>
   <style>
     body {
-      background-image: url(file:///C:/Users/user/OneDrive/Pulpit/szko%C5%82a/Nowy%20folder/Animacja/tablet.png);
+      background-image: url(https://github.com/HistoriaAnimacjiP/HistoriaAnimacjiP.github.io/blob/main/tablet.png);
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center up; /* Dodana linia */
