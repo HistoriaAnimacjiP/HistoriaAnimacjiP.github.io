@@ -43,6 +43,6 @@
     <h1>Animacja</h1>
     <p>
       <a href="file:///C:/Users/user/OneDrive/Pulpit/szko%C5%82a/Nowy%20folder/Animacja/obecnie.html" class="word-box">Technologia</a>
-      <a href="file:///C:/Users/user/OneDrive/Pulpit/szko%C5%82a/Nowy%20folder/Animacja/hisoria2.html" class="word-box">Historia</a>
+      <a href="hisoria2.html" class="word-box">Historia</a>
       <a href="obecnie.html" class="word-box">Obecnie</a>
 
