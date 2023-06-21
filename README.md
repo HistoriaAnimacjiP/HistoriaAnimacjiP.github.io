@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="utf-8">
@@ -45,6 +45,4 @@
       <a href="file:///C:/Users/user/OneDrive/Pulpit/szko%C5%82a/Nowy%20folder/Animacja/obecnie.html" class="word-box">Technologia</a>
       <a href="file:///C:/Users/user/OneDrive/Pulpit/szko%C5%82a/Nowy%20folder/Animacja/hisoria2.html" class="word-box">Historia</a>
       <a href="file:///C:/Users/user/OneDrive/Pulpit/szko%C5%82a/Nowy%20folder/Animacja/hisoria.html" class="word-box">Obecnie</a>
- </nav>
-</body>
-</html>
+
